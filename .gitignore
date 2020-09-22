@@ -1,0 +1,7 @@
+.infuraKey
+.secret
+.etherscanKey
+.DS_Store
+.openzeppelin
+/node_modules
+/build
